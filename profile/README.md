@@ -325,11 +325,18 @@ Kunjungi website kami untuk melihat demo langsung:
 
 ### Capstone Project Team
 
-| Role | Name | Responsibilities |
-|------|------|-----------------|
-| 🎨 **Frontend** | - | Web UI/UX, Dashboard, Components |
-| ⚙️ **Backend** | - | API Development, Database, Authentication |
-| 🤖 **Machine Learning** | - | Model Development, Training, API Integration |
+#### 🤖 Machine Learning Team
+| Cohort ID | Name |
+| --- | --- |
+| M671D5Y0270 | Arif Maulana Insaf |
+| M671D5Y2019 | Zidan Mubarak |
+
+#### 💻 React & Backend Developer Team
+| Cohort ID | Name |
+| --- | --- |
+| R671D5Y0636 | Feril Ferdian |
+| R891D5Y1241 | Muhammad Fadhil Alwan |
+| R209D5Y0292 | Aryansyah Yudha Wijaya |
 
 </div>
 
